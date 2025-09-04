@@ -1,0 +1,5 @@
+{
+  "name": "Nerdy Avatar Generator",
+  "description": "Create your own unique nerdy avatar using AI. Describe the look you want, and the Gemini API will generate a high-quality image for you.",
+  "requestFramePermissions": []
+}
